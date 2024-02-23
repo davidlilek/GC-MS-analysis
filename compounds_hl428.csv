@@ -1,0 +1,105 @@
+cas;count;name;category;weight_orig;weight_deriv
+000035-23-4;2;Sugar Alcohol (C6);Carbohydrates;182.17;615.3
+000084-66-2;1;Diethyl Phthalate;NA;NA;NA
+000084-74-2;5;Dibutyl phthalate;NA;NA;NA
+000141-63-9;9;Pentasiloxane, dodecamethyl-;NA;NA;NA
+000301-02-0;5;Oleamide;Lipids;281.5;281.5
+001856-05-9;24;Cholesterol;Steroids;386.7;458.8
+002582-79-8;24;Inositol;Carbohydrates;180.16;613.2
+002775-90-8;3;Hexose;Carbohydrates;180.16;541.1
+002899-52-7;16;Phenylalanine;Amino Acids;165.19;309.55
+005630-82-0;27;Glycine;Amino Acids;75.07;291.61
+006736-94-3;1;Galactose;NA;540.26;180.26
+006787-10-6;21;Glycerol;Lipids;92.09;308.64
+007364-42-3;4;Glycine;Amino Acids;75.07;219.43
+007364-44-5;17;Valine;Amino Acids;117.15;261.51
+007364-46-7;1;Leucine;Amino Acids;131.17;275.53
+007364-47-8;14;Proline;Amino Acids;115.13;259.49
+007364-50-3;6;Cysteine;Amino Acids;121.16;337.7
+007364-51-4;2;Phenylalanine;Amino Acids;165.19;309.55
+007415-19-2;5;Tyrosine;Amino Acids;181.19;397.7
+007480-78-6;1;Valine;Amino Acids;117.15;189.33
+007483-92-3;23;Isoleucine;Amino Acids;131.17;275.53
+007536-82-5;1;Threonine;Amino Acids;119.12;263.48
+007537-02-2;24;Threonine;Amino Acids;119.12;335.66
+010497-05-9;34;Phosphate;Other;94.971;314.54
+014199-72-5;1;Sugar Alcohol (C5);Carbohydrates;152.15;513
+014199-80-5;9;Sugar Alcohol (C6);Carbohydrates;182.17;615.3
+014317-07-8;11;Sugar Alcohol (C6);Carbohydrates;182.17;615.3
+014330-97-3;24;Citric Acid;Organic Acids;192.12;480.8
+015985-07-6;24;Glutamic Acid;Amino Acids;147.13;363.67
+017596-96-2;15;Lactic Acid;Organic Acids;90.08;234.44
+017851-53-5;3;Galactinol;NA;990.47;342.47
+018291-81-1;1;Methylphosphate;Other;112.02;256.38
+018297-63-7;3;Urea;Other;60.056;204.42
+018547-29-0;25;Sugar Alcohol (C4);Carbohydrates;122.12;410.8
+018748-91-9;24;Stearic Acid;Lipids;284.5;356.7
+018919-39-6;1;Sugar Alcohol (C6);Carbohydrates;182.17;615.3
+020997-50-6;3;Glucopyranose phosphate;NA;692.27;260.27
+021556-26-3;14;Oleic Acid;Lipids;282.5;354.6
+025138-28-7;5;Galactose;NA;569.29;209.29
+027844-07-1;24;Alanine;Amino Acids;89.09;233.45
+030274-77-2;21;5-Oxoproline;Amino Acids;129.11;273.4762
+031038-11-6;23;Glycerol Phosphate;Lipids;172.07;460.8
+032381-53-6;7;Sugar Alcohol (C5);Carbohydrates;152.15;513
+033910-06-4;3;Myo-Inositol phosphate;NA;764.31;260.31
+038166-11-9;2;Malic Acid;Organic Acids;134.09;350.63
+040309-57-7;24;Succinic Acid;Organic Acids;118.09;262.45
+051220-73-6;13;Tyrosine;Amino Acids;181.19;397.7
+055012-82-3;24;Cinnamic Acid;Internal Standard;148.16;220.34
+055268-53-6;24;Aspartic Acid;Amino Acids;133.1;349.64
+055334-92-4;4;Phosphoric acid;NA;429.18;141.18
+055520-89-3;24;Palmitic Acid;Lipids;256.42;328.6
+055528-73-9;1;Sorbose;NA;569.29;209.29
+055528-75-1;1;Sorbose;NA;569.29;209.29
+055556-70-2;12;Ornithine;Amino Acids;132.16;420.9
+055568-91-7;1;D-Myo-Inositol phosphate;NA;764.31;260.31
+055649-62-2;20;Asparagine;Amino Acids;132.12;348.66
+056192-85-9;1;Serine;NA;321.16;105.16
+056196-14-6;25;Hexose;Carbohydrates;180.16;570.1
+064625-17-8;16;Serine;Amino Acids;105.09;321.63
+070125-39-2;2;Serine;Amino Acids;105.09;249.45
+070125-41-6;7;Hydroxyproline;Amino Acids;131.13;275.49
+072785-19-4;2;Cobalt;NA;343.16;NA
+096851-47-7;10;Elaidic Acid;Lipids;282.5;354.6
+1000079-52-5;3;Proline;NA;275.14;131.14
+1000115-16-5;1;Glucopyranosiduronic;NA;648.29;432.29
+1000141-49-4;1;Xylose;NA;525.26;165.26
+1000153-02-1;12;Cysteine;Amino Acids;121.16;337.7
+1000308-88-0;4;Oleamide;Lipids;281.5;353.7
+1000332-00-2;5;Glucopyranosiduronic;NA;648.29;432.29
+1000333-13-9;9;Ornithine;Amino Acids;132.16;420.9
+1000333-14-1;10;Ornithine;Amino Acids;132.16;348.7
+1000333-25-8;11;Asparagine;Amino Acids;132.12;276.48
+1000333-26-2;2;Proline;NA;187.1;115.1
+1000333-28-8;1;Aspartic Acid;Amino Acids;133.1;277.46
+1000333-56-0;2;Oleic Acid;Lipids;282.5;354.6
+1000333-58-8;1;13-Octadecenoic Acid;Lipids;282.5;354.6
+1000373-29-6;5;Valine;NA;261.16;117.16
+1000380-09-1;1;Disaccharide;Carbohydrates;342.3;919.7
+1000380-11-7;1;Maltose;NA;947.46;371.46
+1000380-12-1;2;Glucopyranosiduronic;NA;648.29;432.29
+1000380-15-2;1;Arabinose;NA;467.23;179.23
+1000380-17-5;3;Hexose;Carbohydrates;180.16;570.1
+1000380-17-9;7;Hexose;Carbohydrates;180.16;570.1
+1000380-18-2;3;Pentose;Carbohydrates;150.13;467.89
+1000380-18-3;1;Pentose;Carbohydrates;150.13;467.89
+1000380-18-5;1;Asparagine;NA;898.41;538.41
+1000380-18-7;5;Hexose;Carbohydrates;180.16;570.1
+1000380-18-8;1;Hexose;Carbohydrates;180.16;570.10
+1000380-19-0;2;Hexose;Carbohydrates;180.16;570.10
+1000380-35-5;1;Fructose;NA;569.29;209.29
+1000380-35-6;9;Fructose;NA;569.29;209.29
+1000380-36-9;1;Ribose;NA;525.26;165.26
+1000380-38-2;1;Xylose;NA;525.26;165.26
+1000380-38-3;1;Tagatose;NA;627.31;195.31
+1000380-38-6;1;Tagatose;NA;627.31;195.31
+1000380-38-8;2;Pentose;Carbohydrates;150.13;526
+1000380-41-9;2;Tagatose;NA;627.31;195.31
+120850-88-6;6;Hexose;Carbohydrates;180.16;628.26
+128705-61-3;9;Hexose;Carbohydrates;180.16;570.1
+128705-67-9;8;Hexose;Carbohydrates;180.16;570.1
+128705-71-5;5;Hexose;Carbohydrates;180.16;570.1
+128705-73-7;4;Hexose;Carbohydrates;180.16;570.1
+130405-10-6;15;Hexose;Carbohydrates;180.16;570.1
+213608-51-6;3;Proline;NA;273.12;129.12
